@@ -1,3 +1,5 @@
+<p align="center"><i><samp>Seek freedom through experience</samp></i></p>
+
 <p align="center">
   <samp>
     Hi! I'm currently drawing boxes at <a href="https://github.com/makenotion">@makenotion</a>.
